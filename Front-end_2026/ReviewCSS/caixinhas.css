@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*section : borda,padding
+altura 800px
+largura 920px centralizado*/
+.sessao-noticias{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 20px;
+    padding: 20px;
+    border: 1px dashed salmon;
+
+    width: 920px;
+    height: 800px;
+    margin: auto; 
+}
+
+
+/*deixar em coluna e centralizado nos dois eixos*/
+.noticia{
+    width: 150px;
+    height: 150px;
+    background-color: salmon;
+    color: #fff;
+
+    display: flex;
+    flex-direction: column; /* coloca em coluna */
+    align-items: center; /* centraliza horizontal */
+    justify-content: center; /* centraliza vertical */
+}
