@@ -1,0 +1,35 @@
+/*desktop first*/
+/*desktop >= 992 ate o infinito*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*breakpoints | ponto de quebra do layout*/
+/*tables <= 992px (768px ate 991px)*/
+@media screen and (max-width: 991px){
+h1{
+    color: rgba(5, 77, 77, 0.67);
+}
+.icone{
+    display: none;
+}
+}
+
+/*smartphones < 772px (0px ate 767px)*/
+@media screen and (max-width: 767px){
+   h1{
+    color: white;
+    background-color: pink;
+} 
+.icone{
+    display: unset;
+}
+}
+
