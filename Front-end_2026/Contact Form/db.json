@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": " 1 ",
+      "title": " um título ",
+      "views": 100
+    },
+    {
+      "id": " 2 ",
+      "title": " outro título ",
+      "views": 200
+    }
+  ],
+  "comentários": [
+    {
+      "id": " 1 ",
+      "text": " um comentário sobre a postagem 1 ",
+      "postId": " 1 "
+    },
+    {
+      "id": " 2 ",
+      "text": " outro comentário sobre a postagem 1 ",
+      "postId": " 1 "
+    }
+  ],
+  "perfil": {
+    "nome": " typicode "
+  },
+  "contatos": [
+    {
+      "id": "2",
+      "nome": "Sabryna",
+      "sobrenome": "Monalysa"
+    },
+    {
+      "nome": "Isa",
+      "sobrenome": "Fernandes",
+      "id": "iVkydrgHrvU"
+    },
+    {
+      "nome": "Enzo",
+      "sobrenome": "Gambra",
+      "id": "snDOxtE-upE"
+    },
+    {
+      "nome": "Luis",
+      "sobrenome": "Oliva",
+      "id": "Q_-xQWyzb_A"
+    },
+    {
+      "nome": "Eloysa",
+      "sobrenome": "santos",
+      "id": "RD9U_oa2RZQ"
+    },
+    {
+      "nome": "Mayara",
+      "sobrenome": "Gussonato",
+      "email": "maygussonato@gmail",
+      "telefone": "916344331",
+      "cep": "09341360",
+      "rua": "Rua Edmar Matozinho",
+      "numero": "672",
+      "complemento": "casa verde",
+      "bairro": "Parque Bandeirantes",
+      "cidade": "Mauá",
+      "estado": "SP",
+      "mensagem": "Meu cadastro",
+      "id": "pyZTz3U-HLQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
