@@ -1,0 +1,45 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Mayara Gussonato",
+      "email": "Maygussonato@gmail.com",
+      "idade": 17
+    },
+    {
+      "id": "2",
+      "nome": "Sabryna Monalysa",
+      "email": "SaMonalysa@gmail.com",
+      "idade": 16
+    }
+  ],
+  "frutas": [],
+  "jogos": [],
+  "post": [
+    {
+      "texto": "Atleta do corinthains",
+      "imagem": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQgwGBsT-CWZgbB9NAJdGvapE6aRdiXs65OUlAgCgkARy193ha8ray1pcjPt8qnXm7XcS_poZV9PhnRrpyMYVNqnIGXXR_ve51ifDh4baEaluq9aqA7DhjcNk-37hU9KRKSxSvFafsDruQ&s=19",
+      "qtdCurtida": "3m",
+      "id": "8XRbU52LRUU"
+    }
+  ],
+  "imc": [
+     {
+      "nome": "Mayara",
+      "altura": 1.6,
+      "peso": 50,
+      "imc": 19.531249999999996,
+      "situacao": "Saudável",
+      "id": "dQsETMSzPh8"
+    },
+    {
+      "nome": "Andre",
+      "altura": 1.95,
+      "peso": 90,
+      "imc": 23.668639053254438,
+      "situacao": "Saudável",
+      "id": "49lEXq1jC9s"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
