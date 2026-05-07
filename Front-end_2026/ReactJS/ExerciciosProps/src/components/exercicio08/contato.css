@@ -1,0 +1,8 @@
+.contato{
+    width: 250px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px auto;
+    background-color: rgb(99, 37, 37);
+}

@@ -1,0 +1,19 @@
+.pessoa-card{
+    width: 250px;
+    background-color: #5c2121;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px auto;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+.pessoa-card img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.pessoa-card h2{
+    margin-top: 10px;
+}

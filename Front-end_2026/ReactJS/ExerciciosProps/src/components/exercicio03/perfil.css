@@ -1,0 +1,16 @@
+.perfil{
+    width: 250px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #5c2121;
+    border: 1px solid #ffffff;
+    margin: 10px auto;
+}
+
+.perfil h2{
+    color: #ffffff;
+}
+
+.perfil p{
+    margin: 5px 0;
+}

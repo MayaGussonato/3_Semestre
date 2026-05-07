@@ -24,7 +24,7 @@
     }
   ],
   "imc": [
-     {
+    {
       "nome": "Mayara",
       "altura": 1.6,
       "peso": 50,
@@ -39,6 +39,29 @@
       "imc": 23.668639053254438,
       "situacao": "Saudável",
       "id": "49lEXq1jC9s"
+    }
+  ],
+  "calculadora": [
+    {
+      "n1": 30,
+      "n2": 37,
+      "op": "soma",
+      "resultado": "67.00",
+      "id": "U8sop6CQyA0"
+    },
+    {
+      "n1": 17,
+      "n2": 50,
+      "op": "soma",
+      "resultado": "67.00",
+      "id": "ors5ycnlUgU"
+    },
+    {
+      "n1": 27,
+      "n2": 40,
+      "op": "soma",
+      "resultado": "67.00",
+      "id": "n0L251XseMw"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

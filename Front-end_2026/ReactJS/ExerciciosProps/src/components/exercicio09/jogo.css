@@ -1,0 +1,14 @@
+.jogo{
+    width: 250px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+    background-color:#5c2121;
+}
+
+.jogo img{
+    width: 100%;
+    border-radius: 10px;
+}
